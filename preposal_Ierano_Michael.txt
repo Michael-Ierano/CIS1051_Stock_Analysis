@@ -1,0 +1,18 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+I would like to input a stock symbol and have my program pull an excel file and calculate relevant financial ratios.
+Then take those ratios and compare them to industry averages, and finally make a recommendation of whether or not to buy the stock and why.
+
+TODO
+This would work well with my major, accounting, and help build a base program that I can add to in the future to allow me to slightly automate my stock buying strategy.
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+I will work on my own.
+
+## Do you have any questions of your own?
+
+I would like my program to download the excel files from the SEC website, is there a way to do this in python?
+Would it be too difficult to download a file and perform calculations when the data is labeled slightly differently from company to company?
