@@ -1,0 +1,31 @@
+# Status Report
+
+#### Your name
+Michael Ierano
+TODO
+
+#### Your section leader's name
+Michael Ierano
+TODO
+
+#### Project title
+CIS1051_Stock_Analysis
+TODO
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+I have set up a program that reads financial statements, that I have prepared and turns its elements into 2 dictionaries.
+One for 2019 and one for 2020. Then my program computes financial ratios using the keys in the dictionary and compares them year over year.
+TODO
+
+#### What have you not done for your project yet?
+I cannot figure out how to pull live documents from online and feel it may be too much to accomplish in the short amount of time I have left.
+TODO
+
+#### What problems, if any, have you encountered?
+It is difficult to pull financial statements because of the differences in terms from one company to the next. Even using XBRL does not solve this issue.
+I think I will stick to the prepared files that I have and compute ratios and analyses that way.
+TODO
