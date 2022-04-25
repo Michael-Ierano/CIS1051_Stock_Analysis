@@ -185,6 +185,7 @@ while not done:
     company = company.lower()
     while company != "apple" and company != "microsoft" and company != "google" and company != "ibm":
         company = input("Please enter a valid Company: Apple, Microsoft, Google, or IBM:")
+        company = company.lower()
     ratioAnalysis(company)
     OtherCompany = input("Would you lile to try another company? Enter Y/Yes/N/No:")
     OtherCompany = OtherCompany.lower()
