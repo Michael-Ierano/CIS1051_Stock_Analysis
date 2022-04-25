@@ -10,6 +10,7 @@ industry average for 2020 and 2019. Now based on user input a company is chosen,
 developed with a recommendation on whether or not the company chosen is a good investment.
 
 Functions in the Program & other commands: 
+
 First, a function opens a CSV file and turns it into a list of lines, returning this list of lines. This function is called for each company. 
 The function is called openRead(fileName), and takes in the file’s name.
 Then all dictionaries and needed variables are initialized, and the above function is called for each firm.
@@ -32,6 +33,7 @@ It repeats this same process for 2019 ratios as well.
 Then this function prints the chosen companies financial ratios for 2020 and 2019 as well as quantifying the firmscore and giving a recommendation based on the firm score.
 
 While loop and user input:
+
 Now that all the functions are made and working well it was time to make this code interact with the user. To do this I created a while loop with professor 
 Rosen’s patented done = false stating condition. 
 This loop asks the user to input a company name out of the list of choices: Apple, Microsoft, Google, and IBM. If the user does not enter one of these names, 
