@@ -1,6 +1,8 @@
 # Financial_Ratio_Analysis
 Analysis of a company and its relevant financial ratio's versus the industry averages and companies previous results.
 
+Project Video: https://temple.zoom.us/rec/share/5BKFmtGJgCAfjoF0PnED7uQk6hREwfpPSpbcRF7SaEWj8H8HdUcLAwaYEM0Gdg5c.t29pmmD4qfpZf9yL?startTime=1650899545000
+
 Summary:
 
 This program works with multiple functions starting with financial statements stored in CSV files with standardized tags, like Revenue and Net Income, and turns
