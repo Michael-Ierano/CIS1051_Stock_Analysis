@@ -2,6 +2,7 @@
 Analysis of a company and its relevant financial ratio's versus the industry averages and companies previous results.
 
 Summary:
+
 This program works with multiple functions starting with financial statements stored in CSV files with standardized tags, like Revenue and Net Income, and turns
 them into multiple dictionaries containing computed financial ratios for 2020 and 2019. Dictionaries were super helpful, because of the key-value relationship 
 that I used often in this code. Once the ratios are stored in a dictionary the 4 companies’ ratios in the chosen industry, big tech, are combined to make an 
